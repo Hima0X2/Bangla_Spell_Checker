@@ -19,14 +19,16 @@ public class Keyboard extends JFrame implements ActionListener {
 			'\u0981' };
 	String letter[] = { "ক", "খ", "গ", "ঘ", "ঙ", "চ", "ছ", "জ", "ঝ", "ঞ", "ট", "ঠ", "ড", "ঢ", "ণ", "ত", "থ", "দ", "ধ",
 			"ন", "প", "ফ", "ব", "ভ", "ম", "য", "র", "ল", "শ", "ষ", "স", "হ", "ড়", "ঢ়", "য়", "ং", "ঃ", "্‌", "অ", "আ",
-			"ই", "ঈ", "উ", "ঊ", "ঋ", "এ", "ঐ", "ও", "ঔ", "BackSpace", "ৎ" };
+			"ই", "ঈ", "উ", "ঊ", "ঋ", "এ", "ঐ", "ও", "ঔ", "Space", "ৎ" };
+	String jukto[]= {"ক্ষ","ঙ্ক","ঙ্গ","ঞ্ছ","ঞ্চ","জ্ঞ","ণ্ড","হ্ম","ষ্ণ","ত্ত","ঞ্জ"};
 	JButton[] kar = new JButton[11];
+	JButton[] juktoButton=new JButton[11];
 	JButton[] lbuttons = new JButton[51];
 	JLabel[] labels = new JLabel[26];
-	JButton[] hintlabel = new JButton[4];
 	Container c;
-	private JPanel contentPane;
-static String s="";
+	JPanel contentPane;
+	static String s = "";
+
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
@@ -102,15 +104,28 @@ static String s="";
 			c.add(lbuttons[i]);
 			lbuttons[i].addActionListener(this);
 		}
+		int m1 = 10, n1 = 320, o1 = 50, p1 = 50;
+		for (int j = 0; j < 11; j++) {
+			juktoButton[j] = new JButton();
+			juktoButton[j].setFont(f);
+			juktoButton[j].setBounds(m1, n1, o1, p1);
+			juktoButton[j].setBackground(Color.gray);
+			juktoButton[j].setText(jukto[j]);
+			if (j >= 0 && j <= 10) {
+				m1 += 50;
+			}
+			c.add(juktoButton[j]);
+			juktoButton[j].addActionListener(this);
 
+		}
 	}
+
 	public Keyboard() {
 		setTitle("KeyBoard");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setBounds(100, 100, 450, 300);
+		setBounds(100, 100, 600, 500);
 		contentPane = new JPanel();
 		setContentPane(contentPane);
-		setSize(600, 400);
 		setLocationRelativeTo(null);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setResizable(false);
@@ -122,49 +137,21 @@ static String s="";
 
 	@Override
 	public void actionPerformed(ActionEvent e) {
-		if(e.getSource() == kar[0]) {
-			s=kar[0].getText();
-		}
-		if(e.getSource() == kar[1]) {
-			s=kar[1].getText();
-		}
-		if(e.getSource() == kar[2]) {
-			s=kar[2].getText();
-		}
-		if(e.getSource() == kar[3]) {
-			s=kar[3].getText();
-		}
-		if(e.getSource() == kar[4]) {
-			s=kar[4].getText();
-		}
-		if(e.getSource() == kar[5]) {
-			s=kar[5].getText();
-		}
-		if(e.getSource() == kar[6]) {
-			s=kar[6].getText();
-		}
-		if(e.getSource() == kar[7]) {
-			s=kar[7].getText();
-		}
-		if(e.getSource() == kar[8]) {
-			s=kar[8].getText();
-		}
-		if(e.getSource() == kar[9]) {
-			s=kar[9].getText();
-		}
-		if(e.getSource() == kar[10]) {
-			s=kar[10].getText();
-		}
-		for (int i = 0; i <49; i++) {
-			if(e.getSource() == lbuttons[i]) {
-				s=letter[i];
+		for (int i = 0; i <= 10; i++) {
+			if (e.getSource() == kar[i]) {
+				s = kar[i].getText();
 			}
-		}	
-		if(e.getSource() == lbuttons[50]) {
-			s=letter[50];
 		}
-		if(e.getSource() == lbuttons[49]) {
-			s=" ";
+		for (int i = 0; i < 49; i++) {
+			if (e.getSource() == lbuttons[i]) {
+				s = letter[i];
+			}
+		}
+		if (e.getSource() == lbuttons[50]) {
+			s = letter[50];
+		}
+		if (e.getSource() == lbuttons[49]) {
+			s = " ";
 		}
 		Notepad.text.append(s);
 	}
