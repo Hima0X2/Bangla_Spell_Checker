@@ -1,0 +1,493 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.28)  17 JUN 2023 00:45
+entering extended mode
+**"./A latex project.tex"
+(A latex project.tex
+LaTeX2e <2021-06-01>
+L3 programming layer <2021-06-01>
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
+ef
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-06-05 v7.00l Hypertext links for LaTeX
+
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
+ds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
+.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys
+.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
+nekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape
+.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmac
+ro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
+ty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen141
+\Hy@linkcounter=\count190
+\Hy@pagecounter=\count191
+
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-06-05 v7.00l Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-lan
+gpatches.def
+File: hyperref-langpatches.def 2021-06-05 v7.00l Hyperref: patches for babel la
+nguages
+)
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.s
+ty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count192
+
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-06-05 v7.00l Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count193
+
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen142
+
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintca
+lc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count194
+\Field@Width=\dimen143
+\Fld@charsize=\dimen144
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count195
+\c@Item=\count196
+\c@Hfootnote=\count197
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-06-05 v7.00l Hyperref driver for pdfTeX
+
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.st
+y
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count198
+\c@bookmark@seq@number=\count199
+
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
+ilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqu
+ecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip49
+)
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks17
+\verbatim@line=\toks18
+\verbatim@in@stream=\read2
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 7.
+
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
+dftex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count266
+\l__pdf_internal_box=\box50
+) (A latex project.aux
+
+LaTeX Warning: Label `fig:myfigure' multiply defined.
+
+
+LaTeX Warning: Label `fig:myfigure' multiply defined.
+
+
+LaTeX Warning: Label `fig:myfigure' multiply defined.
+
+
+LaTeX Warning: Label `fig:myfigure' multiply defined.
+
+
+LaTeX Warning: Label `fig:myfigure' multiply defined.
+
+
+LaTeX Warning: Label `fig:myfigure' multiply defined.
+
+
+LaTeX Warning: Label `fig:myfigure' multiply defined.
+
+
+LaTeX Warning: Label `fig:myfigure' multiply defined.
+
+
+LaTeX Warning: Label `fig:myfigure' multiply defined.
+
+
+LaTeX Warning: Label `fig:myfigure' multiply defined.
+
+
+LaTeX Warning: Label `fig:myfigure' multiply defined.
+
+)
+\openout1 = `"A latex project.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count267
+\scratchdimen=\dimen145
+\scratchbox=\box51
+\nofMPsegments=\count268
+\nofMParguments=\count269
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen146
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
+\everyMPtoPDFconversion=\toks20
+)
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
+-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys
+.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
+g
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+)
+Package hyperref Info: Link coloring ON on input line 8.
+
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\SANJIDA\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gett
+itlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count273
+)
+LaTeX Info: Redefining \ref on input line 8.
+LaTeX Info: Redefining \pageref on input line 8.
+LaTeX Info: Redefining \nameref on input line 8.
+ (A latex project.out) (A latex project.out)
+\@outlinefile=\write3
+\openout3 = `"A latex project.out"'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 10.
+<bsc.png, id=51, 376.40625pt x 376.40625pt>
+File: bsc.png Graphic file (type png)
+<use bsc.png>
+Package pdftex.def Info: bsc.png  used on input line 12.
+(pdftex.def)             Requested size: 188.20265pt x 188.20265pt.
+ [1
+
+{C:/Users/SANJIDA/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./bsc.png>]
+(A latex project.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5.
+)
+\tf@toc=\write4
+\openout4 = `"A latex project.toc"'.
+
+ [2
+
+] [3
+
+]
+<stringmatching.png, id=89, 487.22025pt x 92.14426pt>
+File: stringmatching.png Graphic file (type png)
+<use stringmatching.png>
+Package pdftex.def Info: stringmatching.png  used on input line 61.
+(pdftex.def)             Requested size: 389.77672pt x 73.71548pt.
+<lavestrain.png, id=90, 372.1905pt x 218.0145pt>
+File: lavestrain.png Graphic file (type png)
+<use lavestrain.png>
+Package pdftex.def Info: lavestrain.png  used on input line 77.
+(pdftex.def)             Requested size: 297.7528pt x 174.41182pt.
+ [4 <./stringmatching.png>]
+<jdk.png, id=102, 285.4665pt x 218.0145pt>
+File: jdk.png Graphic file (type png)
+<use jdk.png>
+Package pdftex.def Info: jdk.png  used on input line 92.
+(pdftex.def)             Requested size: 228.37349pt x 174.41182pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<jdkinstall.png, id=103, 289.68225pt x 223.43475pt>
+File: jdkinstall.png Graphic file (type png)
+<use jdkinstall.png>
+Package pdftex.def Info: jdkinstall.png  used on input line 100.
+(pdftex.def)             Requested size: 231.74611pt x 178.74803pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<version.png, id=104, 331.2375pt x 151.16475pt>
+File: version.png Graphic file (type png)
+<use version.png>
+Package pdftex.def Info: version.png  used on input line 109.
+(pdftex.def)             Requested size: 264.99034pt x 120.93195pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <./lavestrain.png>]
+
+LaTeX Warning: Characters dropped after `\end{verbatim}' on input line 122.
+
+<properties.png, id=113, 390.86024pt x 189.70876pt>
+File: properties.png Graphic file (type png)
+<use properties.png>
+Package pdftex.def Info: properties.png  used on input line 125.
+(pdftex.def)             Requested size: 312.68861pt x 151.7672pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<start.png, id=114, 489.62926pt x 478.1865pt>
+File: start.png Graphic file (type png)
+<use start.png>
+Package pdftex.def Info: start.png  used on input line 133.
+(pdftex.def)             Requested size: 391.70393pt x 382.54971pt.
+
+Overfull \hbox (1.70393pt too wide) in paragraph at lines 133--134
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<main.png, id=115, 523.35526pt x 512.51476pt>
+File: main.png Graphic file (type png)
+<use main.png>
+Package pdftex.def Info: main.png  used on input line 142.
+(pdftex.def)             Requested size: 418.68475pt x 410.01234pt.
+
+Overfull \hbox (28.68475pt too wide) in paragraph at lines 142--143
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<spell.png, id=116, 478.1865pt x 493.845pt>
+File: spell.png Graphic file (type png)
+<use spell.png>
+Package pdftex.def Info: spell.png  used on input line 151.
+(pdftex.def)             Requested size: 382.54971pt x 395.07652pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<open.png, id=117, 583.58025pt x 179.4705pt>
+File: open.png Graphic file (type png)
+<use open.png>
+Package pdftex.def Info: open.png  used on input line 164.
+(pdftex.def)             Requested size: 466.86482pt x 143.57658pt.
+
+Overfull \hbox (76.86482pt too wide) in paragraph at lines 164--165
+ [][] 
+ []
+
+<save.png, id=118, 498.06075pt x 167.4255pt>
+File: save.png Graphic file (type png)
+<use save.png>
+Package pdftex.def Info: save.png  used on input line 172.
+(pdftex.def)             Requested size: 398.44913pt x 133.94057pt.
+
+Overfull \hbox (8.44913pt too wide) in paragraph at lines 172--173
+ [][] 
+ []
+
+<exit.png, id=119, 405.9165pt x 140.9265pt>
+File: exit.png Graphic file (type png)
+<use exit.png>
+Package pdftex.def Info: exit.png  used on input line 180.
+(pdftex.def)             Requested size: 324.73364pt x 112.74133pt.
+<changetheme.png, id=120, 560.0925pt x 164.41425pt>
+File: changetheme.png Graphic file (type png)
+<use changetheme.png>
+Package pdftex.def Info: changetheme.png  used on input line 188.
+(pdftex.def)             Requested size: 448.0746pt x 131.53156pt.
+
+Overfull \hbox (58.0746pt too wide) in paragraph at lines 188--189
+ [][] 
+ []
+
+[6 <./jdk.png>] [7 <./jdkinstall.png> <./version.png>] [8 <./properties.png>]
+[9] [10 <./start.png>] [11 <./main.png>] [12 <./spell.png>] [13 <./open.png> <.
+/save.png> <./exit.png>] [14 <./changetheme.png>] (A latex project.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `"A latex project".out' has not changed.
+(rerunfilecheck)             Checksum: 367A2FA3DF4F434709971824BB3E0358;1525.
+ ) 
+Here is how much of TeX's memory you used:
+ 8078 strings out of 478864
+ 122675 string characters out of 2847712
+ 427446 words of memory out of 3000000
+ 25846 multiletter control sequences out of 15000+600000
+ 408767 words of font info for 45 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,8n,66p,431b,508s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/SANJIDA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmbx12.pfb><C:/Users/SANJIDA/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmmi12.pfb><C:/Users/SANJIDA/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmr12.pfb><C:/Users/SANJIDA/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/SANJIDA/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/SANJIDA/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on "A latex project.pdf" (14 pages, 512523 bytes).
+PDF statistics:
+ 219 PDF objects out of 1000 (max. 8388607)
+ 59 named destinations out of 1000 (max. 500000)
+ 167 words of extra memory for PDF output out of 10000 (max. 10000000)
+

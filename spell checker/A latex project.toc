@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Target Customers}{3}{section.2}%
+\contentsline {section}{\numberline {3}Features \& Description}{3}{section.3}%
+\contentsline {section}{\numberline {4}Algorithm for spell checker}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}String Matching Algorithm}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Edit Distance}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Levenshtein distance}{5}{subsection.4.3}%
+\contentsline {section}{\numberline {5}User Guide}{5}{section.5}%
+\contentsline {section}{\numberline {6}Challenges}{7}{section.6}%
+\contentsline {section}{\numberline {7}Future work}{8}{section.7}%
+\contentsline {section}{\numberline {8}Conclusion}{8}{section.8}%
+\contentsline {section}{\numberline {9}Reference}{9}{section.9}%
